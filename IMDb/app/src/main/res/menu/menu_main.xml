@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/WatchList"
+        android:orderInCategory="100"
+        android:title="@string/action_watchlist"
+        android:icon="@drawable/ic_toolbar_watchlist"
+        app:showAsAction="ifRoom" />
+</menu>

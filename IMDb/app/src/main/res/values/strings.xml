@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">IMDb</string>
+
+    <string name="action_watchlist">Watchlist</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="releaseDate">12/12/2016</string>
+    <string name="releaseDate_label">Release Date :</string>
+    <string name="popularity">Popularity :</string>
+    <string name="votecount">Voted by :</string>
+    <string name="vote_number">7/10</string>
+    <string name="logo">Logo</string>
+    <string name="posters">POSTERS</string>
+    <string name="trailers">TRAILER</string>
+    <string name="cast">ACTORS</string>
+    <string name="crew">CREATORS</string>
+    <string name="budget">Budget : </string>
+    <string name="revenue">Revenue : </string>
+    <string name="release_status">Released</string>
+    <string name="menu_favorites">My Favorites</string>
+    <string name="menu_watchlist">My Watchlist</string>
+    <string name="status">Status : </string>
+    <string name="tagline">the storawhuoaseuiohadsuhasdhuioasduhosadhodasohasdhoiasdoihjasd</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="description">In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="cast_crew">cast_crew</string>
+    <string name="movie_image">movie_image</string>
+    <string name="rating_votecount">rating_votecount</string>
+    <string name="usercount">300 users</string>
+    <string name="overview">STORYLINE</string>
+    <string name="blank"> </string>
+    <string name="app_label">IMDb</string>
+    <string name="title_activity_fav_watch">Fav_watch</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="fav">Favorites</string>
+    <string name="up">Upcoming</string>
+    <string name="rat">Top Rated</string>
+    <string name="np">Now Playing</string>
+    <string name="wl">Watchlist</string>
+    <string name="text">text</string>
+</resources>
